@@ -1,4 +1,4 @@
-Be aware! Bcon is my first trial with Git :)
+Be aware! Bcon is my first trial with Git.
 I'm learning a lot from others on the net and want to give my piece of coding-time back to you.
 The code I write is mostly at night.
 when I read it back with daylight, I do see a lot of improvement.
